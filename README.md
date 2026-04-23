@@ -1,1 +1,1 @@
-# SyncLive Releases\n\nDownload the latest SyncLive desktop app for TikTok Live.\n\n[Latest Release](https://github.com/0xwolfsync/synclive-releases/releases/latest)
+# SyncLive — Desktop app for live streamers. Downloads & releases..[Latest Release](https://github.com/0xwolfsync/synclive-releases/releases/latest)
